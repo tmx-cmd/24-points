@@ -1,0 +1,6 @@
+﻿  24points calculate.cpp
+  chapter.7.7-better.cpp
+  正在生成代码...
+E:\workspace\24-points\24points\chapter.7.7-better.cpp(119): warning C4715: “primary”: 不是所有的控件路径都返回值
+E:\workspace\24-points\24points\chapter.7.7-better.cpp(77): warning C4715: “Token_stream::get”: 不是所有的控件路径都返回值
+  24点.vcxproj -> E:\workspace\24-points\24points\x64\Debug\24点.exe
